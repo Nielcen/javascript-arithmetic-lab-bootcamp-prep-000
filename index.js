@@ -25,8 +25,8 @@ function dec(a) {
 
 
 function makeInt(a) {
- var parsed = parseInt('2')
- return parsed
+ parseInt(a, 10)
+ return a
 }
 
 
