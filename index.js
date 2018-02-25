@@ -25,7 +25,7 @@ function dec(a) {
 
 
 function makeInt(a) {
- parseInt(a.ToString, 10)
+ parseInt('a'.toString)
  return a
 }
 
