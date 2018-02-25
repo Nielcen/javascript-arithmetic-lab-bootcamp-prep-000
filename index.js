@@ -24,7 +24,7 @@ function dec(a) {
 }
 
 
-function makeInt('0x2328') {
+function makeInt(a) {
  parseInt('0x2328')
  return 0x2328
   
