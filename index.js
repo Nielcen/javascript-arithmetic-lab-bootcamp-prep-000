@@ -24,7 +24,7 @@ function dec(a) {
 }
 
 
-function makeInt(2) {
+function makeInt(a) {
  var parsed = parseInt('2')
  return parsed
 }
